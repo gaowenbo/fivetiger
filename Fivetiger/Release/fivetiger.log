@@ -1,0 +1,39 @@
+﻿生成启动时间为 2014/12/17 16:10:25。
+     1>项目“C:\Users\94805_000\Documents\Visual Studio 2010\Projects\fivetiger\fivetiger\fivetiger.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\Fivetiger.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtCore /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtGui /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtWidgets /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt StepManager.cpp
+         StepManager.cpp
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\94805_000\Documents\Visual Studio 2010\Projects\fivetiger\Win32\Release\\Fivetiger.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.1.1\5.1.1\msvc2010\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Fivetiger.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Users\94805_000\Documents\Visual Studio 2010\Projects\fivetiger\Win32\Release\Fivetiger.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\94805_000\Documents\Visual Studio 2010\Projects\fivetiger\Win32\Release\Fivetiger.lib" /MACHINE:X86 Release\Fivetiger.res
+         Release\AIPlayer.obj
+         Release\ChessBoard.obj
+         Release\Fivetiger.obj
+         Release\FlagInfo.obj
+         Release\GameLogic.obj
+         Release\qrc_Fivetiger.obj
+         Release\moc_Fivetiger.obj
+         Release\main.obj
+         Release\MidLevelAIPlayer.obj
+         Release\PersonPlayer.obj
+         Release\RandomAIPlayer.obj
+         Release\ScoreAIPlayer.obj
+         Release\Step.obj
+         Release\StepManager.obj
+         fivetiger.vcxproj -> C:\Users\94805_000\Documents\Visual Studio 2010\Projects\fivetiger\Win32\Release\Fivetiger.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\94805_000\Documents\Visual Studio 2010\Projects\fivetiger\Win32\Release\\Fivetiger.exe;#1" /manifest Release\Fivetiger.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\Fivetiger.unsuccessfulbuild”。
+         正在对“Release\Fivetiger.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\94805_000\Documents\Visual Studio 2010\Projects\fivetiger\fivetiger\fivetiger.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.67
